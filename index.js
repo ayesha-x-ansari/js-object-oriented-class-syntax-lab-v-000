@@ -29,9 +29,3 @@ class BoardMember {
 
 
 
-class Ceo extends User {
-  hireEmployee () {
-    returns "Welcome aboard!"
-  }
-
-}
