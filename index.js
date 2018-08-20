@@ -31,9 +31,3 @@ class Ceo extends BoardMember {
     returns "Welcome aboard!"
   }
 }
-
-class Ceo extend User {
-
-  }
-
-}
