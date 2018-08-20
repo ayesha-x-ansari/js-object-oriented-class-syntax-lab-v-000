@@ -34,6 +34,6 @@ class Ceo extends BoardMember {
 */
 
 hireEmployee(){
-  console.log('hello')
+  returns "Welcome aboard!";
 }
   }
