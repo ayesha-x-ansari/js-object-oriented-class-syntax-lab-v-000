@@ -1,4 +1,4 @@
-class BoardMember {
+class boardMember {
 
 
 
