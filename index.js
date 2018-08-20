@@ -1,10 +1,12 @@
+
 class BoardMember {
-  construction (name, homeState, training) {
-    this.name = name
-    this.homeState = homeState
-    this.training = training
+  constructor(name, homeState, training) {
+    this.name = name;
+    this.homeState = homeState;
+    this.training = training;
   }
-
-
-
+ 
+  veto () {
+    return 'No, I must disagree';
+  }
 }
